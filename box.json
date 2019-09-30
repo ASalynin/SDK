@@ -4,7 +4,7 @@
 	"name": "Box",
 	"description": "A colored box",
 	"newInstancePrefix": "Box",
-	"icon": "https://www.sample.com/customwidgets/box/icon.png",
+	"icon": "https://github.com/ASalynin/SDK/blob/master/icon.png",
 	"vendor": "SAPRUN",
 	"eula": "",
 	"license": "",
@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-sample-box",
-			"url": "https://www.sample.com/customwidgets/box/box.js",
+			"url": "https://github.com/ASalynin/SDK/blob/master/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-sap-sample-box-sps",
-			"url": "https://www.sample.com/customwidgets/box/box_sps.js",
+			"url": "https://github.com/ASalynin/SDK/blob/master/box_sps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-sap-sample-box-bps",
-			"url": "https://www.sample.com/customwidgets/box/box_bps.js",
+			"url": "https://github.com/ASalynin/SDK/blob/master/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
