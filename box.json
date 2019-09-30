@@ -11,7 +11,7 @@
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-sap-sample-box",
+			"tag": "com.sap.sample.box",
 			"url": "https://github.com/ASalynin/SDK/blob/master/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
